@@ -1,0 +1,20 @@
+New sht added
+
+# some shit
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/next.html b/next.html
+index 25cd78d..570e1b5 100644
+--- a/next.html
++++ b/next.html
+@@ -5,6 +5,7 @@
+ </head>
+ <body>
+ <h1>Super awesome second page</h1>
++<p>Sweet , parently i can do this from sublime</p>
+ <a href="/">Home</a>
+ </body>
+ </html>
+\ No newline at end of file
